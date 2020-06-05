@@ -14,4 +14,7 @@ public class HelloMapper {
     public void hello(){
         System.out.println("hihihihihihi");
     }
+    public void xixi(){
+        System.out.println("xixixixi");
+    }
 }
